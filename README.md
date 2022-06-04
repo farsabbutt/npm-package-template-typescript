@@ -11,5 +11,8 @@ To bump a new patch version of the package:
 To publish the package:
 > npm publish
 
+This template was generated from the shell script: https://github.com/farsabbutt/npm-typescript-package-setup
 
+
+<hr />
 Inspired by: https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
