@@ -1,7 +1,7 @@
 # :gift: My New Typescript Package
 
 ## Usage
-Use this template repository to create a concrete npm package repository for your next cool npm package based on Typescript.
+Use this template repository to create your concrete next cool npm package based on Typescript.
 
 ## New version
 To bump a new patch version of the package:
